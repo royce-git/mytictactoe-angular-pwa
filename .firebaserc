@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-toe-firstpwa": {
+      "hosting": {
+        "mytictactoepwa": [
+          "tic-tac-toe-firstpwa"
+        ]
+      }
+    }
+  }
+}
